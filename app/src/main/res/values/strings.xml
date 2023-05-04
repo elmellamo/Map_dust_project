@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAP_1</string>
+    <string name="title_vscode">VS CODE로 깃허브에 업로드하기</string>
+    <string name="c1">1. 우선 깃허브에 올릴 프로젝트를 관리할 새 레파지토리를 만든다.\n\n2. 만들어진 레파지토리로 들어가서 code 클릭, clone에서 url을 복사한다.\n\n3. VS Code에서 우선 내가 깃이랑 연결할 폴더를 연다.\n\n4. VS Code에서 맨 왼쪽 세번째 칸에 있는, 소스 제어를 누른다.\n\n5. 리포지토리 초기화를 누른다n\n6. 가장 아래에 뜰 터미널에 아래를 입력한다.</string>
+    <string name="c2">git remote add origin 아까내가만든레파지토리주소</string>
+    <string name="c3">7. 혹시 모르니까 제대로 연결됐는지 확인하기</string>
+    <string name="c4">git remote -v</string>
+    <string name="c5">8. 제대로 연결됐다면, 이제 소스제어에서 내가 커밋,푸시하고 싶은 파일들 혹은 폴더를 플러스 + 버튼을 누른다. 그럼 그게 스테이징된 변경 사항에 갔음을 확인할 수 있다.\n\n9. 만약에 커밋에 하고 싶은 이야기가 있다면 메시지에 적고 난 후에 커밋 버튼 옆에 아래 버튼을 누른다. 커밋 및 동기화만 누르면 굳이 master, main 머리 아플 필요 없이바로 커밋, 푸시, 동기화까지 할 수 있다!</string>
+</resources>
